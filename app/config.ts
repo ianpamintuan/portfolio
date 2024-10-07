@@ -1,16 +1,16 @@
 export const metaData = {
-  baseUrl: "https://nextfolio-template.vercel.app/",
-  title: "Nextfolio",
-  name: "Sirius",
+  baseUrl: "https://www.markianpamintuan.dev/",
+  title: "Mark Ian Pamintuan",
+  name: "Mark Ian Pamintuan",
   ogImage: "/opengraph-image.png",
   description:
-    "A clean, fast, and lightweight portfolio template built with Next.js, Vercel, and Tailwind CSS for optimal performance.",
+    "Explore Mark Ian Pamintuan's portfolio showcasing dynamic web applications built with React.js. Discover innovative solutions, seamless user experiences, and cutting-edge projects that bring your digital ideas to life!",
 };
 
 export const socialLinks = {
-  twitter: "https://x.com/1tssirius",
-  github: "https://github.com/1msirius/Nextfolio",
-  instagram: "https://www.instagram.com/",
-  linkedin: "https://www.linkedin.com/",
-  email: "mailto:example@gmail.com",
+  twitter: "",
+  github: "https://github.com/ianpamintuan/",
+  instagram: "",
+  linkedin: "https://www.linkedin.com/in/mark-ian-pamintuan/",
+  email: "mailto:ianpamintuan06@gmail.com",
 };
