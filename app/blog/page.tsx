@@ -11,9 +11,10 @@ export default function BlogPosts() {
 
   return (
     <section>
-      <h1 className="mb-8 text-2xl font-medium tracking-tight">Our Blog</h1>
+      <h1 className="mb-8 text-2xl font-medium tracking-tight">Blog</h1>
       <div>
-        {allBlogs
+        🚧 Under construction 🚧
+        {/* {allBlogs
           .sort((a, b) => {
             if (
               new Date(a.metadata.publishedAt) >
@@ -38,7 +39,7 @@ export default function BlogPosts() {
                 </p>
               </div>
             </Link>
-          ))}
+          ))} */}
       </div>
     </section>
   );
