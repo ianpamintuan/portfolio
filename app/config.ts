@@ -12,5 +12,5 @@ export const socialLinks = {
   github: "https://github.com/ianpamintuan/",
   instagram: "",
   linkedin: "https://www.linkedin.com/in/mark-ian-pamintuan/",
-  email: "mailto:ianpamintuan06@gmail.com",
+  email: "mailto:contact@markianpamintuan.dev",
 };
